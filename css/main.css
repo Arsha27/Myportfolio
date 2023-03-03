@@ -1930,8 +1930,9 @@ input::-moz-focus-inner {
  
   letter-spacing: .15em; /* Adjust as needed */
   animation: 
-    typing 3.5s steps(40, end),
-    blink-caret .75s step-end infinite;
+    typing 3.5s steps(70, end),
+    blink-caret .70s step-end infinite;
+    display: inline-block;
 }
 
 
@@ -2004,6 +2005,7 @@ input::-moz-focus-inner {
   line-height: 1.333;
   color: #cf1767;
   margin-top: 0;
+  display: inline-block;
 }
 
 .intro-text h1 {
