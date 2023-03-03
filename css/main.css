@@ -3396,7 +3396,7 @@ input::-moz-focus-inner {
 * ------------------------------------------------------------------- */
 @media screen and (max-width:1300px) {
   .contact-email {
-    font-size: 10rem;
+    font-size: 8rem;
   }
 
   .contact-infos {
