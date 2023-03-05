@@ -1582,16 +1582,16 @@ body {
 }
 
 /*programacion*/
-.html        { width:90%;  animation:html 4s ease-out;       }
-.css         { width:90%;  animation:css 5s ease-out;        }
-.php         { width:70%;  animation:php 6s ease-out;        }
-.javascript  { width:50%;  animation:javascript 7s ease-out; }
-.jquery      { width:30%;  animation:jquery 8s ease-out;     }
+.html        { width:90%;  animation:html 26s ease-out;       }
+.css         { width:90%;  animation:css 27s ease-out;        }
+.php         { width:70%;  animation:php 28s ease-out;        }
+.javascript  { width:50%;  animation:javascript 29s ease-out; }
+.jquery      { width:30%;  animation:jquery 30s ease-out;     }
 
 
 /*programacion*/
 @keyframes html        { 0% { width:0px; } 100% { width:90%; }  }
-@keyframes css         { 0% { width:0px; } 100% { width:95%; }  }
+@keyframes css         { 0% { width:0px; } 100% { width:90%; }  }
 @keyframes php         { 0% { width:0px; } 100% { width:70%; }  }
 @keyframes javascript  { 0% { width:0px; } 100% { width:50%; }  }
 @keyframes jquery      { 0% { width:0px; } 100% { width:30%; }  }

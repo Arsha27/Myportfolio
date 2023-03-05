@@ -1032,6 +1032,21 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
   transform: translateY(100px);
 }
 
+/* skill bar */
+[data-aos= html].aos-animate {
+  width:90%;  animation:html 4s ease-out;
+}
+[data-aos= css].aos-animate {
+  width:90%;  animation:css 5s ease-out;
+}
+[data-aos= php].aos-animate {
+  width:70%;  animation:php 6s ease-out; 
+}
+[data-aos= javascript].aos-animate {
+  width:50%;  animation:javascript 7s ease-out;
+}
+
+
 [data-aos=fade-down] {
   transform: translateY(-100px);
 }
